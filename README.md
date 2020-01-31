@@ -1,0 +1,2 @@
+# LightThemeStatic
+LightThemeStaticFiles
